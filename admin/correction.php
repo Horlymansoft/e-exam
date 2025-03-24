@@ -2,7 +2,6 @@
 <?php
 if(isset($_GET['student']) && isset($_GET['course'])){
     $student_id =  $_GET['student'];
-
     $course_id =  $_GET['course'];
     $sub_id =  $_GET['s'];
 
